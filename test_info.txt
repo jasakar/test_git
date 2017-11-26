@@ -1,1 +1,11 @@
 My test repo
+Now that Git is tracking readme.txt we need to create a mile-
+stone to indicate the changes that we made to readme.txt . In
+this case, the changes that we made were creating the file in
+the first place! This milestone is called a commit in Git. A
+commit logs the content of all of the currently staged files.
+Right now we only have readme.txt staged so let’s commit
+the creation of this file. When making a Git commit, we need
+to write a commit message which is specified after the -m flag.
+The message should briefly describe what changes you’ve
+made since the last commit.
