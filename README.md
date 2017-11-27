@@ -9,7 +9,7 @@ I live in the city of Espoo, in the republic of Finland
 Three of my favorite books are:
 - *The Long Goodbye by Raymond Chandler*
 - *Siddharta gy Hermann Hesse*
-- Tuntematon Sotilas by Väinö Linna*
+- *Tuntematon Sotilas by Väinö Linna*
 
 ### Contact
 
