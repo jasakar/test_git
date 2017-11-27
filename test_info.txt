@@ -9,5 +9,5 @@ the creation of this file. When making a Git commit, we need
 to write a commit message which is specified after the -m flag.
 The message should briefly describe what changes you’ve
 made since the last commit.
-I added this line in the update-test_info branch
-It's windy outside today.
+It's cloudy outside today.
+
