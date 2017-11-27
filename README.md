@@ -13,4 +13,4 @@ Three of my favorite books are:
 
 ### Contact
 
-The best way to get in touch with me is [on jajarvin.frihost.net}(https:// jajarvin.frihost.net).
+The best way to get in touch with me is [on jajarvin.frihost.net](https:// jajarvin.frihost.net).
